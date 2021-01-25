@@ -1,14 +1,10 @@
 ---
-layout:     post
-title:      "[Javascript] 호이스팅 (Hoisting)"
-date:       2020-05-23 17:17:00
-author:     "sujin-park"
-header-img: "img/post-bg-alitrip.jpg"
-catalog: true
-multilingual: false
-tags:
-    - Javascript
+title: '호이스팅 (Hoisting)'
+date: 2020-05-23 17:17:00
+category: 'javascript'
+draft: false
 ---
+
 호이스팅 (Hoisting)
 ========================
 

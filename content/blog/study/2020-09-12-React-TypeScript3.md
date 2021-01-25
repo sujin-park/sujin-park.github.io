@@ -1,14 +1,10 @@
 ---
-layout:     post
-title:      "[우아한테크러닝] React & TypeScript 3기 - 3회차"
-date:       2020-09-13 17:00:00
-author:     "sujin-park"
-header-img: "img/post-bg-alitrip.jpg"
-catalog: true
-multilingual: false
-tags:
-    - React
+title: '[우아한테크러닝] React & TypeScript 3기 - 3회차'
+date: 2020-09-13 17:00:00
+category: 'study'
+draft: false
 ---
+
 우아한테크러닝 React & TypeScript 3기 - 3회차
 ========================
 

@@ -1,13 +1,8 @@
 ---
-layout:     post
-title:      "[Meetup] Kakao FE(Front end) meetup, 1st 후기"
-date:       2020-05-05 19:00:00
-author:     "sujin-park"
-header-img: "img/post-bg-alitrip.jpg"
-catalog: true
-multilingual: false
-tags:
-    - Seminar & MeetUp
+title: 'Kakao FE(Front end) meetup, 1st 후기'
+date: 2020-05-05 19:00:00
+category: 'conference'
+draft: false
 ---
 
 # Kakao FE(Front end) meetup, 1st 후기

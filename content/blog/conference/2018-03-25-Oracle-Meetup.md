@@ -1,14 +1,10 @@
 ---
-layout:     post
-title:      "[Meetup] 미래의 Java와 손에 잡히는 Microservice - Oracle Meetup 4th!"
-date:       2018-03-25 16:00:00
-author:     "sujin-park"
-header-img: "img/post-bg-alitrip.jpg"
-catalog: true
-multilingual: false
-tags:
-    - Seminar & MeetUp
+title: '미래의 Java와 손에 잡히는 Microservice - Oracle Meetup 4th!'
+date: 2018-03-25 16:00:00
+category: 'conference'
+draft: false
 ---
+
 [Meetup] 미래의 Java와 손에 잡히는 Microservice - Oracle Meetup 4th!
 ========================
 

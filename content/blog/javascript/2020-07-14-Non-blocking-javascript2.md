@@ -1,14 +1,10 @@
 ---
-layout:     post
-title:      "[Javascript] Code spitz 85 [Non blocking Javascript] - 2강"
-date:       2020-07-14 22:00:00
-author:     "sujin-park"
-header-img: "img/post-bg-alitrip.jpg"
-catalog: true
-multilingual: false
-tags:
-    - Javascript
+title: 'Code spitz 85 [Non blocking Javascript] - 2강'
+date: 2020-07-14 22:00:00
+category: 'javascript'
+draft: false
 ---
+
 Code spitz 85 [Non blocking Javascript] - 2강
 ========================
 

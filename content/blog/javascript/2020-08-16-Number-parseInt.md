@@ -1,17 +1,12 @@
 ---
-layout:     post
-title:      "[Javascript] Number와 parseInt 의 차이"
-date:       2020-08-16 16:30:00
-author:     "sujin-park"
-header-img: "img/post-bg-alitrip.jpg"
-catalog: true
-multilingual: false
-tags:
-    - Javascript
+title: 'Number와 parseInt 의 차이'
+date: 2020-08-16 16:30:00
+category: 'javascript'
+draft: false
 ---
+
 Number와 parseInt 의 차이
 ========================
-
 
 ### Number
 

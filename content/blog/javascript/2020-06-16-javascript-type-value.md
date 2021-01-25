@@ -1,14 +1,10 @@
 ---
-layout:     post
-title:      "[Javascript] 타입과 값"
-date:       2020-06-16 17:17:00
-author:     "sujin-park"
-header-img: "img/post-bg-alitrip.jpg"
-catalog: true
-multilingual: false
-tags:
-    - Javascript
+title: '타입과 값'
+date: 2020-06-16 17:17:00
+category: 'javascript'
+draft: false
 ---
+
 타입과 값
 ========================
 

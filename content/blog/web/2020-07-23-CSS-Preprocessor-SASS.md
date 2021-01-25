@@ -1,14 +1,10 @@
 ---
-layout:     post
-title:      "[CSS] CSS 전처리기 (CSS Preprocessor) - SASS"
-date:       2020-07-23 15:30:00
-author:     "sujin-park"
-header-img: "img/post-bg-alitrip.jpg"
-catalog: true
-multilingual: false
-tags:
-    - CSS
+title: 'CSS 전처리기 (CSS Preprocessor) - SASS'
+date: 2020-07-23 15:30:00
+category: 'web'
+draft: false
 ---
+
 CSS 전처리기 (CSS Preprocessor) - SASS
 ========================
 

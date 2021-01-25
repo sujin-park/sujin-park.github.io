@@ -1,14 +1,10 @@
 ---
-layout:     post
-title:      "[Javascript] scope"
-date:       2020-05-18 17:50:00
-author:     "sujin-park"
-header-img: "img/post-bg-alitrip.jpg"
-catalog: true
-multilingual: false
-tags:
-    - Javascript
+title: 'Scope'
+date: 2020-05-18 17:50:00
+category: 'javascript'
+draft: false
 ---
+
 scope
 ========================
 

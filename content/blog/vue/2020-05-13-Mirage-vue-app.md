@@ -1,13 +1,8 @@
 ---
-layout:     post
-title:      "[etc] API Mocking Library - Mirage 설정하기 (Vue.js)"
-date:       2020-05-13 22:50:00
-author:     "sujin-park"
-header-img: "img/post-bg-alitrip.jpg"
-catalog: true
-multilingual: false
-tags:
-    - etc
+title: 'API Mocking Library - Mirage 설정하기 (Vue.js)'
+date: 2020-05-13 22:50:00
+category: 'vue'
+draft: false
 ---
 
 # API Mocking Library Mirage 설정하기 (Vue.js)

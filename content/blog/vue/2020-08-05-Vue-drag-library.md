@@ -1,14 +1,10 @@
 ---
-layout:     post
-title:      "[Vue.js] Vue Drag & Drop 구현할 기능에 적절한 library 사용하기"
-date:       2020-08-05 22:00:00
-author:     "sujin-park"
-header-img: "img/post-bg-alitrip.jpg"
-catalog: true
-multilingual: false
-tags:
-    - Vue.js
+title: 'Vue Drag & Drop 구현할 기능에 적절한 library 사용하기'
+date: 2020-08-05 22:00:00
+category: 'vue'
+draft: false
 ---
+
 Vue Drag & Drop 구현할 기능에 적절한 library 사용하기
 ========================
 

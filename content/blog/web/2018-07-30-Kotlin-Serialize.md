@@ -1,13 +1,8 @@
 ---
-layout: post
-title: '[Spring] 특정 데이터가 Serialize 되지 않을 때'
+title: '특정 데이터가 Serialize 되지 않을 때'
 date: 2018-07-30 22:30:00
-author: 'sujin-park'
-header-img: 'img/post-bg-alitrip.jpg'
-catalog: true
-multilingual: false
-tags:
-  - Spring
+category: 'web'
+draft: false
 ---
 
 # 특정 데이터가 Serialize 되지 않을 때
