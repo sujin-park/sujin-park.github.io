@@ -21,8 +21,6 @@ jobs:
         run: yarn build
 
       - name: deploy
-        uses: maxheld83/ghpages@v0.2.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          GH_PAT: ${{ secrets.DEPLOY }}
-          BUILD_DIR: 'public/'
+        uses: enriikke/gatsby-gh-pages-action@v2.1.1
+        with:
+          access-token: ${{ secrets.DEPLOY }}
