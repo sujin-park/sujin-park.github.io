@@ -5,9 +5,6 @@ category: 'study'
 draft: false
 ---
 
-우아한테크러닝 React & TypeScript 3기 - 7회차
-========================
-
 ### 컴포넌트 아키텍쳐
 
 컴포넌트가 비즈니스 로직과 관계성을 가지고 있는지 없는지에 따라서 presentational component, container component 로 구분지을 수 있다. 외부와 관계가 있다면 container component, 단순하게 props 을 받아서 보여주기만 한다면 presentational component가 될 수 있다.

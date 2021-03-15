@@ -5,9 +5,6 @@ category: 'javascript'
 draft: false
 ---
 
-Code spitz 85 [Non blocking Javascript] - 2강
-========================
-
 이전보다 개인적으로 공부 할 시간이 남게 되어서 이전에 스터디 참여했던 Code spitz 85 [Non blocking Javascript] 를 복습하려고 한다.
 당시에 회사 다니면서 어렵게 참여해서 들었던 시간을 헛되게 넘기고 싶지 않아서 이번에 복습을 제대로 해봐야겠다. 2강부터 다시 복습하게 된 이유는...가장 열심히 들었고 이 수업 중 가장 많이 이해했던 강의다. 이번엔 꼭 제대로 공부해봐야겠다.
 

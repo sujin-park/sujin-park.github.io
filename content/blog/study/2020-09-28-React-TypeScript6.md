@@ -5,9 +5,6 @@ category: 'study'
 draft: false
 ---
 
-우아한테크러닝 React & TypeScript 3기 - 6회차
-========================
-
 ## 컴포넌트 설계
 
 

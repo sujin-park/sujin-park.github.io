@@ -8,9 +8,6 @@ draft: false
 CSS 전처리기 (CSS Preprocessor) - SASS
 ========================
 
-### CSS 전처리기란
----
-
 CSS 전처리기(CSS Preprocessor)는 모듈별로 특별한 Syntax를 가지고 있다. 믹스인(mixin), 중첩 셀렉터(nesting selector), 상속 셀렉터(inheritance selector) 등을 통해 CSS를 DRY 방식으로 구조적으로 작업할 수 있게 해준다. 이 CSS 전처리기 자체만으로는 웹 서버가 인지하지 못하기 때문에 각 CSS 전처리기에 맞는 Compiler를 사용해야 하고 컴파일을 하게 되면 실제로 우리가 사용하는 CSS 문서로 변환이 된다.
 
 CSS 전처리기의 종류는 Sass, Less, Stylus가 있으며 이 포스트에는 Sass 를 중점적으로 다룰 예정이다.

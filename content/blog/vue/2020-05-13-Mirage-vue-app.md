@@ -5,8 +5,6 @@ category: 'vue'
 draft: false
 ---
 
-# API Mocking Library Mirage 설정하기 (Vue.js)
-
 ### Mirage JS 소개
 
 Vue.js 에서 Mirage JS 로 API Mocking  당장 호출 가능한 API가 없어도 Javascript application 을 빌드, 테스트 할 수 있는 API Mocking 라이브러리다.

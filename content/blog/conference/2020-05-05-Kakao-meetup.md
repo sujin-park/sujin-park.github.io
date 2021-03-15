@@ -5,8 +5,6 @@ category: 'conference'
 draft: false
 ---
 
-# Kakao FE(Front end) meetup, 1st 후기
-
 Kakao FE meetup 에 다녀오고 글을 정리해둔지는 꽤 되었는데 이제서야 포스팅을 하게 되었다.
 그 때 얻었던 인사이트를 지금까지 적용해본게 있는지 되돌아 보고자 재정리 + 포스팅을 하기로 결심했다.
 

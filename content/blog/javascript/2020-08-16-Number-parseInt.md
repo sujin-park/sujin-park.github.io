@@ -5,9 +5,6 @@ category: 'javascript'
 draft: false
 ---
 
-Number와 parseInt 의 차이
-========================
-
 ### Number
 
 Number는 문자열을 인자로 받으면 해당 문자열을 숫자로 변환해준다.

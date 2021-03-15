@@ -5,9 +5,6 @@ category: 'conference'
 draft: false
 ---
 
-[Meetup] 미래의 Java와 손에 잡히는 Microservice - Oracle Meetup 4th!
-========================
-
 2018년 3월 17일에 네번째 주최하는 Oracle MeetUp에 참여했다.
 3번째 MeetUp에도 참여했었는데 이번에 밋업에 참여한 인원이 훨~씬 많아서
 깜짝놀랬다. 
