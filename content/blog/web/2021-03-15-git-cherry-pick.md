@@ -1,11 +1,10 @@
 ---
-layout:     post
-title:      "[Git] Git cherry-pick"
-date:       2021-03-15 21:52:00
-author:     "sujin-park"
-catalog: true
-multilingual: false 
+title: '[Git] cherry-pick'
+date: 2021-03-15 21:52:00
+category: 'web'
+draft: false
 ---
+
 Git cherry-pick
 ========================
 
