@@ -1,14 +1,12 @@
 ---
-layout:     post
-title:      "[Git] Git cherry-pick"
-date:       2021-03-15 21:52:00
-author:     "sujin-park"
-catalog: true
-multilingual: false 
+title: '[Git] cherry-pick'
+date: 2021-03-15 21:52:00
+category: 'web'
+draft: false
 ---
+
 Git cherry-pick
 ========================
-
 **cherry-pick** 은 `다른 브랜치에 있는 커밋을 현재 작업하고 있는 브랜치에 적용시킬 수 있는 명령어`이다.
 
 **사용 예시**
