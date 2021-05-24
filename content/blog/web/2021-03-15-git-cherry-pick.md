@@ -5,8 +5,6 @@ category: 'web'
 draft: false
 ---
 
-Git cherry-pick
-========================
 **cherry-pick** 은 `다른 브랜치에 있는 커밋을 현재 작업하고 있는 브랜치에 적용시킬 수 있는 명령어`이다.
 
 **사용 예시**
