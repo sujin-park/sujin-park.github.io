@@ -6,7 +6,7 @@ lang: 'en'
 
 # Sujin Park
 
-<div align="center">
+<div>
 
 ## Contact
 - Email : psujin831@gmail.com
