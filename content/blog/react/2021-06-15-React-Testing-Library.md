@@ -156,7 +156,7 @@ module.exports = {
 
 코드는 아래 저장소에서 확인해볼 수 있다.
 
-[https://github.com/sujin-park/mash-up-react/tree/master/react-webpack](https://github.com/sujin-park/mash-up-react/tree/main/react-webpack)
+[https://github.com/sujin-park/mash-up-react/tree/main/react-webpack](https://github.com/sujin-park/mash-up-react/tree/main/react-webpack)
 
 <br>
 
