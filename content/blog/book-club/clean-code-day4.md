@@ -1,5 +1,5 @@
 ---
-title: 'CleanCode(클린코드) - 2장. 의미 있는 이름 (1)'
+title: 'CleanCode(클린코드) - 2장. 의미 있는 이름'
 date: 2022-01-24 22:00:00
 category: 'book-club'
 draft: false
