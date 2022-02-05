@@ -1,6 +1,6 @@
 ---
 title: 'CleanCode(클린코드) - 7장. 오류 처리'
-date: 2022-02-01 20:00:00
+date: 2022-02-04 20:00:00
 category: 'book-club'
 draft: false
 ---
