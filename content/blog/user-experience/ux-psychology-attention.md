@@ -1,6 +1,6 @@
 ---
 title: '[UX 심리학] 주의 병목 구간'
-date: 2020-09-02 22:00:00
+date: 2022-03-30 20:00:00
 category: 'user-experience'
 draft: false
 ---
