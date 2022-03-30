@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://sujin-park.github.io/user-experience/ux-psychology-attention/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/book-club/clean-code-day20/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/book-club/clean-code-day17/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/book-club/clean-code-day15/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/book-club/clean-code-day12/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/book-club/clean-code-day10/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/book-club/clean-code-day8/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/book-club/clean-code-day6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/book-club/clean-code-day4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/book-club/clean-code-day3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/book-club/clean-code-day2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/book-club/clean-code-day1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/web/git-prepare-commit-msg/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/web/git-tag-release-drafter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/essay/2020-2021-log/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/react/2021-06-15-React-Testing-Library/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/react/2021-05-24-React-Router-Hooks/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/web/2021-03-15-git-cherry-pick/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/study/2020-09-30-React-TypeScript7/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/study/2020-09-28-React-TypeScript6/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/study/2020-09-12-React-TypeScript4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/study/2020-09-12-React-TypeScript3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/study/2020-09-02-React-TypeScript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/javascript/2020-08-16-Number-parseInt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/vue/2020-08-05-Vue-drag-library/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/web/2020-07-23-CSS-Preprocessor-SASS/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/javascript/2020-07-14-Non-blocking-javascript2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/javascript/2020-06-16-javascript-type-value/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/javascript/2020-05-23-Javascript-hoisting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/javascript/2020-05-18-Javascript-scope/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/vue/2020-05-13-Mirage-vue-app/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/conference/2020-05-05-Kakao-meetup/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/web/2018-07-30-Kotlin-Serialize/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/conference/2018-03-25-Oracle-Meetup/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/conference/2018-03-20-AWS101-seminar/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sujin-park.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
